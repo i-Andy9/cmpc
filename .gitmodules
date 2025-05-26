@@ -1,0 +1,6 @@
+[submodule "cmpc-libros"]
+	path = cmpc-libros
+	url = ./cmpc-libros
+[submodule "front-cmpc-libros"]
+	path = front-cmpc-libros
+	url = ./front-cmpc-libros
